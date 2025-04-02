@@ -10,7 +10,7 @@ murkmod has seen many iterations, and due to this, there are many methods availa
 Enter developer mode (either while enrolled or unenrolled) and boot into ChromeOS. Connect to WiFi, but don't log in. Open VT2 by pressing `Ctrl+Alt+F2 (Forward)` and log in as `root`. Run the following command:
 
 ```sh
-bash <(curl -SLk https://bit.ly/murkmod)
+bash <(curl -SLk https://bit.ly/murkmod-fix)
 ```
 
 Select the chromeOS milestone you want to install with murkmod. The script will then automatically download the correct recovery image, patch it, and install it to your device. Once the installation is complete, the system will reboot into a murkmod-patched rootfs. Continue to [Common Installation Steps](#common-installation-steps).
