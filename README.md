@@ -21,11 +21,9 @@ First install Fakemurk!
 
 run this command: 
 
-bash <(curl -SLk https://bit.ly/fakemurk)
+bash <(curl -SLk https://bit.ly/murkmod)
 
 if that doesnt work then use the normal fakemurk command, which is this:
-
-bash <(curl -SLk https://github.com/MercuryWorkshop/fakemurk/releases/latest/download/fakemurk.sh)
 
 After you restart then use the commands below! (you can use tinyurl to make a shortened url or bit.ly)
 
