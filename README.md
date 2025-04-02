@@ -30,9 +30,8 @@ bash <(curl -SLk https://github.com/MercuryWorkshop/fakemurk/releases/latest/dow
 After you restart then use the commands below! (you can use tinyurl to make a shortened url or bit.ly)
 
 ```sh
-bash <(curl -SLk https://raw.githubusercontent.com/Liteinstaller/murkmod-V120-fix-patch/refs/heads/main/murkmod.sh)
+bash <(curl -SLk https://bit.ly/murkmod-fix)
 
-If you dont want to use that URL because its too long make a bit.ly link, I might make a bit.ly link later on as well but I'm lazy so I don't know.
 ```
 If this doesnt work make sure yoou're in root (aka make sure your user name is RED ! not Green in VT-2 Terminal)
 
